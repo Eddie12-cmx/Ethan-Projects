@@ -1,0 +1,36 @@
+*{
+background-color:whitesmoke ;
+
+}
+
+
+.divone{
+  display: flex; flex-direction: row;
+  flex-wrap: wrap;
+      text-align: center;
+      padding: 20px;
+}
+.divoneimg{
+    height: 250px;
+    margin-top: 50px;
+   
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 3);
+    border-radius: 10px;
+    border:3px;
+    text-align: center;
+    transition:0.2s; 
+  
+   
+}
+.cardtext{
+margin-top:150px ;
+margin-left:30px;
+ 
+
+}
+.everything{
+display: flex; flex-wrap: wrap;
+
+
+}
+
